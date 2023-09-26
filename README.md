@@ -8,4 +8,4 @@ Uppgiften går ut på att klona **_moment-3_** repository till den lokala dator
 2. Öppna cmd (**command prompt**)
 3. Skriv rätt sökväg till lokal mapp för respository 
 4. Kopiera länken från github (https://github.com/Hanin-96/moment-3.git)
-5. git clone https://github.com/Hanin-96/moment-3.git
+5. Skriv kommandot git clone https://github.com/Hanin-96/moment-3.git
